@@ -9,4 +9,5 @@ include SessionsHelper
       redirect_to login_url
     end
   end
+  
 end
